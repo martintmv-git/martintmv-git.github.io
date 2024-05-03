@@ -32,7 +32,7 @@ export default defineAppConfig({
       }
     },
     socials: {
-      twitter: '#',
+      twitter: '',
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
