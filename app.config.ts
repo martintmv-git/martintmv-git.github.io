@@ -1,7 +1,7 @@
 // https://github.com/nuxt-themes/alpine/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   alpine: {
-    title: 'Martin Tomov Blog',
+    title: '@martintmv blog',
     description: 'Space for experiments with generative AI and machine learning.',
     image: {
       src: '/mtmv.png',

@@ -4,14 +4,15 @@ import { defineTheme } from 'pinceau'
 export default defineTheme({
   alpine: {
     $schema: {
-      title: 'All the configurable tokens from Alpine.',
+      title: '@martintmv blog',
+      description: 'Space for experiments with generative AI and machine learning.',
       tags: [
         '@studio-icon carbon:blog'
       ]
     },
     body: {
       backgroundColor: {
-        initial: '{color.white}',
+        initial: '#faf0e6',
         dark: '{color.black}'
       },
       color: {
