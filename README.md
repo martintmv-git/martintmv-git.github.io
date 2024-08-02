@@ -2,6 +2,8 @@
 
 Starter template for [Alpine](https://alpine.nuxt.space).
 
+> Trigger GitHub Pages rebuild.
+
 ## Clone
 
 Clone the repository (using `nuxi`):
